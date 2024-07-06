@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronverpo.github.io/sitemap
+Sitemap: https://ronverpo.github.io/app/sitemap
+Sitemap: https://ronverpo.github.io/assets/sitemap
+Sitemap: https://ronverpo.github.io/css/sitemap
+Sitemap: https://ronverpo.github.io/includes/sitemap
+Sitemap: https://ronverpo.github.io/item/sitemap
+Sitemap: https://ronverpo.github.io/src/sitemap
